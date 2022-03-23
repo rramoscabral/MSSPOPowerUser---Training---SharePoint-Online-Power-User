@@ -1,2 +1,2 @@
-# MSSPOPowerUser---Training---SharePoint-Online-Power-User
+# MSSPOPowerUser - Training - SharePoint Online Power User
 SharePoint Online Power User
