@@ -21,12 +21,75 @@ Organizations can choose to have the SharePoint environment in a variety of ways
 
 
 
+With SharePoint Server hybrid, productivity services in SharePoint in Microsoft 365 can be integrated with on-premises SharePoint Server to provide unified functionality and access to data. For enterprises that want to gradually move their existing on-premises SharePoint Server services to the cloud, SharePoint Server hybrid provides a staged migration path by extending high-impact SharePoint Server workloads to SharePoint in Microsoft 365.
+
+A SharePoint Server hybrid environment enables trusted communications between SharePoint in Microsoft 365 and SharePoint Server. When you have established this trust framework, you can configure integrated functionality between services and features such as Search, Follow, and user profiles.
+
 <br/>
 
 ## What is SharePoint Site
 
+Organizations use Microsoft SharePoint to create websites and all you need is a web browser, such as Microsoft Edge, Google Chrome, or Firefox.
 
 
+![SharePoint Site](https://www.rramoscabral.com/training/assets/MSSharePoint/ModernSite_002.png) 
+
+
+A SharePoint site it is just reguler website that can have one or more pages to display content from SharePoint components named **SharePoint Web Parts**. 
+
+SharePoint Web Parts can be: 
+- Bing maps, adds a map to your page.
+- Button, easily adds a button to your page with your own label and link.
+- Call to Action, creates a button with a call to action for users.
+- Code snippet, easily displays code as text on your page for others to use or learn from.
+- Connectors, you can get messages, alerts, and notifications from your favorite external services on a group-connected team site page.
+- Countdown timer, displays a count down (or count up) to an event.
+- Divider, inserts a line between other web parts to help break up your page and make it easier to read.
+- Document Library, displays a document library and customize it with your own title, view, and even size. 
+- Embed, displays content on your page from other sites like YouTube videos.
+- Events, allows you to add and display upcoming events on your page. 
+- File viewer, insert a files on your page. File types you can insert include Excel, Word, PowerPoint, Visio, .PDFs, 3D Models, videos, and more.
+- Group calendar, puts a group calendar right on your page so that it is easily visible to your readers.
+- Hero, is a great way to bring focus and visual interest to your page. 
+- Highlighted content, dynamically displays content based on content type (documents, pages, news, videos, images, etc), filtering, or a search string.
+- Image, inserts an image on the page, either from your site, your OneDrive, or your hard drive.
+- Image Gallery, shares collections of pictures on a page. 
+- Kindle Instant Preview, shares a preview of a Kindle book.
+- Link, adds a link to an internal or external page, video, image, or document.
+- List, displays a list that you can customize with your own title, view, and even size. 
+- List properties, connects to a list web part on the same page and display items from the list based on what a user selects.
+- Markdown, adds text to your page and format it using Markdown language.
+- Microsoft Forms, can create surveys, quizzes, and polls on a page. 
+- My feed, shows a mix of content from across Microsoft 365, based on what's likely to be most relevant to the current user at any given time.
+- News, keeps your team in the loop as well as engages them with important or interesting stories.
+- Organization chart, show a visual organization chart by choosing a person to build the chart around. 
+- Page properties, provides details about your page, such as title, date, content type, and more.
+- Planner, adds your team's tasks and assignments on a page using Microsoft Planner.
+- PowerApps, is a service that lets you build business apps that run in a browser or on a phone or tablet, with no coding experience required.
+- Power BI, easily embeds an interactive Power BI report on your page. The embedded reports are fully secure so you can easily create secure internal portals.
+- Quick Chart, adds simple charts to your page. 
+- Quick Links, "pins" items to your page for easy access.
+- Recent documents, displays documents that have been recently added or edited.
+- Saved for later, users can "save" pages, news posts, and documents to view later in SharePoint. 
+- Site activity, automatically shows recent activity on your site, such as files uploaded, edits made, lists and libraries created, and so on.
+- Sites, showcases sites on a page. 
+- Spacer, allows you to control vertical space on your page.
+- Stream (classic), displays a video right on your page from your organization's Microsoft Stream (classic) video portal.
+- Text, adds paragraphs and tables to your page. Formatting options like styles, bullets, indentations, highlighting, and links are available.
+- Twitter, shows tweets that are relevant to you or your audience right on your page.
+- Weather, shows the current weather on your page.
+- World clock, hows the time in different locations around the world.
+- Yammer web part enhances collaboration by embedding Yammer conversations on your page.
+- YouTube, easily embeds YouTube videos right on your page.
+
+
+
+
+
+
+
+
+SharePoint Site Collection, just as the name implies, is a collection of SharePoint Sites. Each site collection contains a single top-level site and subsites below it.
 
 
 
@@ -98,6 +161,22 @@ More help for SharePoint for Android or IOS
 
 
 
-
  
 You can download Microsoft SharePoint Online Quick Start Guide [**here**](https://download.microsoft.com/download/C/3/4/C3468197-CE05-4738-A1D4-707B4738723A/SPO%20QS.pdf)
+
+
+
+
+<br/>
+
+---
+
+<br/>
+
+<div style="font-style: italic; text-align: center;" markdown="1">
+
+Section: SharePoint
+
+[<< Microsoft 365 Group](./Microsoft365Group.md) | [back to top](#top)  | [SharePoint >>](./SharePoint.md)
+
+</div>

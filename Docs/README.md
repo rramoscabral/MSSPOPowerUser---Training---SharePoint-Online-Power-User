@@ -5,6 +5,8 @@
 This course is aimed at all users who want to work collaboratively through Microsoft 365 online tools. This course will demonstrate how to share documents in Microsoft SharePoint Online, Microsoft OneDrive for business and Microsoft Teams.
 
 
+<br/>
+
 # Table of Content
 
 
