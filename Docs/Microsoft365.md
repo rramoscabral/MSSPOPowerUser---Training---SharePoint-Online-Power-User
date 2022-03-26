@@ -1,5 +1,17 @@
 
+<a id="top" />
+
+<a id="microsoft365" />
+
 # Microsoft 365
+
+
+
+
+
+
+<a id="righttoolsfortherightpeople" />
+
 
 <br/>
 
@@ -63,12 +75,16 @@ The following table is a summary of some applications and services available.<br
  <br/>Find more [here](https://www.microsoft.com/en-us/microsoft-365/yammer/yammer-overview) |
 
 
+<a id="whyaretheresomanyapplications" />
+
 <br/>
 
 ## Why are there so many applications?
 
 Having an application with all the features integrated can be a challenge for new users. If an application is dedicated to a feature and is simplified, it guarantees more productivity and autonomy for the user.
 
+
+<a id="microsoft365plans" />
 
 <br/>
 
@@ -84,18 +100,17 @@ The applications and services referenced above are integrated into plans or subs
 | [Office Home and Business 2021](https://go.microsoft.com/fwlink/p/?LinkID=2009851&culture=en-us&country=WW) | [Microsoft 365 Business Premium](https://www.microsoft.com/en-ww/microsoft-365/business/microsoft-365-business-premium)  | [Microsoft 365 F3](https://www.microsoft.com/en-ww/microsoft-365/enterprise/f3?activetab=pivot%3aoverviewtab) |
 | [Compare home plans](https://www.microsoft.com/en-ww/microsoft-365/buy/compare-all-microsoft-365-products?tab=1)            | [Compare business plans](https://www.microsoft.com/en-ww/microsoft-365/business/compare-all-microsoft-365-business-products?&activetab=tab:primaryr2) | [Compare enterprise plans](https://www.microsoft.com/en-ww/microsoft-365/compare-microsoft-365-enterprise-plans) | 
 
-<br/>
-
 
 <br/>
+
 ---
+
 <br/>
 
-| | |
-| :-- | --: 
-| <<    | >> |
+<div style="font-style: italic; text-align: center;" markdown="1">
 
+Section: Microsoft Office 365 
 
-<p align='left'>[left](README.md)</p>  <p align='center'>Section: Microsoft Office 365</p>   <p align='right'>[right](TheRightToolsfortheRightPeople.md)</p>
+[<< Back to main](./README.md) | [back to top](#top)  | [Microsoft 365 Group >>](./Microsoft365Group.md)
 
-Section: Microsoft Office 365
+</div>

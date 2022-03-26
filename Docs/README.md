@@ -1,3 +1,9 @@
+<a id="top" />
+
+# Course Introduction
+
+
+
 
 
 # Table of Content
@@ -8,13 +14,17 @@ Power User
 
 **Microsoft 365**
 
-- [What is Microsoft 365][]
-- [The Right Tools for the Right People](Microsoft365.md#TheRightToolsfortheRightPeople)
-- [Why are there so many applications?](TheRightToolsfortheRightPeople.md#)
+- [Microsoft 365](./Microsoft365.md#microsoft365)
+- [The Right Tools for the Right People](./Microsoft365.md#righttoolsfortherightpeople)
+- [Why are there so many applications?](./Microsoft365.md#whyaretheresomanyapplications)
+ - [Microsoft 365 plans](./Microsoft365.md#microsoft365plans)
+
+
+
 
 **Microsoft 365 Group**
  - [Microsoft 365 Group](Microsoft365Group.md)
- - []()
+
 
 
 **Sharepoint**
@@ -29,6 +39,3 @@ Power User
 - [OneDrive]()
 - [OneDrive vs OneDrive For Bussiness]()
 
-
--Completed 
-    - [](../Hands-on-Labs/CreateSharePointTeamSite.md)
