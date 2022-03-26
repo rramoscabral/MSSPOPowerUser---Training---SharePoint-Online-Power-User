@@ -1,17 +1,22 @@
 
 <a id="top" />
 
-<a id="microsoft365" />
+<a id="microsoft-365" />
 
 # Microsoft 365
 
+Microsoft 365 (before Office 365) is designed to help you achieve more with innovative Office apps, intelligent cloud services, and world-class security.
+- For home, powerful productivity apps for individuals and families.
+- For business, productivity solutions for small and medium sized businesses.
+- For enterprise, enterprise-grade productivity, management, and security.
 
 
+Why Microsoft change the name from Office 365 to Microsoft 365?
+- They changed the name to be more reflective of the range of features and benefits in the subscription, to meet the unique needs of individuals and businesses.
 
+<br/>
 
-
-<a id="righttoolsfortherightpeople" />
-
+<a id="the-right-tools-for-the-right-people" />
 
 <br/>
 
@@ -72,10 +77,11 @@ The following table is a summary of some applications and services available.<br
 | Yammer<br/>![Logo](https://www.rramoscabral.com/training/assets/logos/MSYammer.png)  | It's enterprise social network. Yammer is a collaboration tool that helps you connect and engage across the company. Start conversations, share knowledge, and build communities.Is simular to SharePoint social. The Yammer is the default social unless you switch it back to the SharePoint social.
 
 
- <br/>Find more [here](https://www.microsoft.com/en-us/microsoft-365/yammer/yammer-overview) |
+<br/>Find more [here](https://www.microsoft.com/en-us/microsoft-365/yammer/yammer-overview) |
 
+<br/>
 
-<a id="whyaretheresomanyapplications" />
+<a id="why-are-there-so-many-applications" />
 
 <br/>
 
@@ -83,8 +89,9 @@ The following table is a summary of some applications and services available.<br
 
 Having an application with all the features integrated can be a challenge for new users. If an application is dedicated to a feature and is simplified, it guarantees more productivity and autonomy for the user.
 
+<br/>
 
-<a id="microsoft365plans" />
+<a id="microsoft-365-plans" />
 
 <br/>
 

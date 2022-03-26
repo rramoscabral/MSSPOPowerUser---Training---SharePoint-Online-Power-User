@@ -3,6 +3,10 @@
 # Microsoft 365 Group
 
 
+<a id="microsoft-365-group" />
+
+<br/>
+
 ## Microsoft 365 Group
 
 Microsoft 365 Group it is the definition of a group of users to collaborate with your teammates when writing documents, creating spreadsheets, working on project plans, scheduling meetings, or sending email.
@@ -24,6 +28,11 @@ With the creation of a Microsoft 365 group, the user has a series of resources a
 
 The user associated with this type of group can collaborate with the other users of the group in an easy way and easily set resources such as a shared Outlook inbox, shared calendar or a document library for collaborating on files.
 
+<br>
+
+<a id="privacy" />
+
+<br/>
 
 ### Privacy
 
@@ -33,19 +42,37 @@ The group has its own privacy which can be public or private
 
 Neither public groups nor private groups can be seen or accessed by people outside of your organization unless those people have been specifically invited as guests.
 
+<br>
+
+<a id="group-email" />
+
+<br/>
+
 
 ### Group email
 
 Microsoft 365 groups allow teams to collaborate by giving them a group email and a shared workspace for conversations, files, and calendars.
 
+<br>
 
-### Microsoft Teams
+<a id="microsoft-teams" />
+
+<br/>
+
+
+## Microsoft Teams
 
 Microsoft Teams supports collaboration through chat, calls, and online meetings. The teams you add are collections of people, content, and tools. Groups are a collection of people, and are useful if you only need a group email address. It can take up to an hour for new distribution groups and mail-enabled security groups to appear here.
 
 In Teams you can create a group from an existing 365 group or from something you already own.
 
 ![Create a Team](https://www.rramoscabral.com/training/assets/MSTeams/CreateTeam_01.png) ![Create a new team from something you already own](https://www.rramoscabral.com/training/assets/MSTeams/CreateTeam_02.png)
+
+<br>
+
+<a id="who-can-create-microsoft-365-groups" />
+
+<br/>
 
 
 ## Who can create Microsoft 365 Groups
@@ -54,6 +81,12 @@ By default, all users can create Microsoft 365 groups. This is the recommended a
 
 But organizations can restrict access to create groups.
 
+
+<br>
+
+<a id="types-of-existing-groups" />
+
+<br/>
 
 
 ## Types of existing groups
@@ -66,3 +99,18 @@ But organizations can restrict access to create groups.
 | Mail-enabled security | A distribution list that can also be used to control access to OneDrive and SharePoint. |
 | Security | Controls access to OneDrive and SharePoint and can be used for Mobile Device Management for Microsoft 365. |
 
+
+
+<br/>
+
+---
+
+<br/>
+
+<div style="font-style: italic; text-align: center;" markdown="1">
+
+Section: Microsoft Office 365 Group
+
+[<< Microsoft 365](./Microsoft365.md) | [back to top](#top)  | [SharePoint >>](./SharePoint.md)
+
+</div>
