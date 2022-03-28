@@ -2,13 +2,19 @@
 
 # Hans-on-labs
 
-
-
-
-
+You can submit bugs, changes, improvements, and ideas.
 
 ## Microsoft 365 user interface
 
 Given the dynamic nature of Microsoft cloud tools, you might experience UI (User Interface) changes that occur after the development of this training content. As a result, the lab instructions and lab steps might not align correctly.
 
 Cloud updates occur frequently, so you might encounter UI changes before this training content updates. **If this occurs, adapt to the changes, and then work through them in the labs as needed.**
+
+
+
+| Lab | Topic | Description |
+| :---: | :---: | --- |
+| 1 | SharePoint Online     | [Create a team site in SharePoint](./CreateSharePointTeamSite.md) | 
+| 2 | SharePoint Online     | []()|
+| 3 | OneDrive for Bussiness| []()|
+| 4 | Microsoft Teams       | []()|

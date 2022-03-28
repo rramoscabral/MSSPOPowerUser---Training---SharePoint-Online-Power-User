@@ -77,7 +77,7 @@ The following table is a summary of some applications and services available.<br
 | Yammer<br/>![Logo](https://www.rramoscabral.com/training/assets/logos/MSYammer.png)  | It's enterprise social network. Yammer is a collaboration tool that helps you connect and engage across the company. Start conversations, share knowledge, and build communities.Is simular to SharePoint social. The Yammer is the default social unless you switch it back to the SharePoint social.
 
 
-<br/>Find more [here](https://www.microsoft.com/en-us/microsoft-365/yammer/yammer-overview) |
+<br/>Find more [here](https://www.microsoft.com/en-us/microsoft-365/yammer/yammer-overview)
 
 <br/>
 

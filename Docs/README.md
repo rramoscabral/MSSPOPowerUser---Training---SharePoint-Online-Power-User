@@ -28,12 +28,47 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 
 **Sharepoint**
-- [What is SharePoint]()
-- [SharePoint Server]()
-- [SharePoint Online]()
-- [SharePoint Online VS SharePoint Server]()
-- [Exercise: Create SharePoint Team site](../Hands-on-Labs/CreateSharePointTeamSite.md)
-- [Exercise: Create Document library](../Hands-on-Labs/CreateSharePointTeamSite.md)
+- [SharePoint](./SharePoint.md#sharepoint)
+- [SharePoint Online VS SharePoint on-premises VS SharePoint Hybrid](./SharePoint.md#sharepoint-online-vs-sharepoint-on-premises-vs-sharepoint-hybrid)
+- [What is SharePoint Site](./SharePoint.md#what-is-sharepoint-site)
+- [SharePoint Site Collection](./SharePoint.md#sharePoint-site-collection)
+- [Team sites](./SharePoint.md#team-sites)
+- [Classic Sites vs Modern Sites](./SharePoint.md#classic-sites-vs-modern-sites)
+- [Lists and libraries](./SharePoint.md#lists-and-libraries)
+- [Communication site](./SharePoint.md#communication-site)
+- [Search](./SharePoint.md#search)
+- [SharePoint mobile App](./SharePoint.md#sharepoint-mobile-app)
+- [SharePoint Online Quick Start Guide](./SharePoint.md#sharepoint-online-quick-start-guide)
+
+
+**SharePoint Start Page**
+- [SharePoint Start Page](./SharePointStartPage.md#sharepoint-start-page)
+- [Home Site](./SharePointStartPage.md#home-site)
+- [Hub Site](./SharePointStartPage.md#hub-site)
+- [Root Site](./SharePointStartPage.md#root-site)
+
+
+
+**Exercise: Create SharePoint Team site**
+- [Exercise: Create SharePoint Team site](./SharePointExecCreateSharePointTeamSite.md)
+
+**SharePoint Libraray**
+-[SharePoint Libraray](./SharePointLibraries.md#sharepoint-library)
+-[](./SharePointLibraries.md)
+
+**Exercise: Create Document library**
+- [Exercise: Create Document library](./SharePointExecCreateSharePointLibrary.md)
+
+
+**SharePoint restrictions and limitations**
+- [Limitations of file names and file types in SharePoint and OneDrive](./SharePointRestrictionsLimitations.md#limitations-of-file-names-and-file-types-in-sharepoint-and-onedrive)
+- [Limitations of path lengths in SharePoint and OneDrive](./SharePointRestrictionsLimitations.md#limitations-of-path-lengths-in-sharepoint-and-onedrive)
+- [Limitations of file upload and download sizes in SharePoint and OneDrive](./SharePointRestrictionsLimitations.md#limitations-of-file-upload-and-download-sizes-in-sharepoint-and-onedrive)
+- [Sharing limitations on SharePoint and OneDrive](./SharePointRestrictionsLimitations.md#sharing-limitations-on-sharepoint-and-onedrive)
+
+
+
+
 
 
 **OneDrive**
@@ -56,6 +91,6 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 Section: Course Introduction a Table of Content
 
-[<< Microsoft 365](../README.md) | [back to top](#top)  | [[Microsoft 365 >>](./Microsoft365.md)
+[<< Microsoft 365](../README.md) | [back to top](#top)  | [Microsoft 365 >>](./Microsoft365.md)
 
 </div>

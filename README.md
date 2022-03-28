@@ -7,12 +7,6 @@ Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](http
 
 
 
-
-
-Training for Microsoft Official Course (MOC) PL-400 Microsoft Power Platform Developer
-
-The Microsoft Power Platform helps organizations optimize their operations by simplifying, automating and transforming business tasks and processes.
-
 - [About the course](#about-the-course)
 - [Documentation](#ocumentation)
 - [Hands-on Labs](#hands-on-labs)
@@ -32,6 +26,12 @@ The Microsoft Power Platform helps organizations optimize their operations by si
 ## About the course
 
 This course is aimed at all users who want to work collaboratively through Microsoft 365 online tools. This course will demonstrate how to share documents in Microsoft SharePoint Online, Microsoft OneDrive for business and Microsoft Teams.
+
+<br/>
+
+## Prerequisites
+
+Basic knowledge of Office 2016, Word, Excel, PowerPoint and OneNote applications and the graphical environment and Microsoft Windows operating system.
 
 
 <br/>
