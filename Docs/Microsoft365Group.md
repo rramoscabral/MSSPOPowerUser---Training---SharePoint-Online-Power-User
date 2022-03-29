@@ -28,7 +28,7 @@ With the creation of a Microsoft 365 group, the user has a series of resources a
 
 The user associated with this type of group can collaborate with the other users of the group in an easy way and easily set resources such as a shared Outlook inbox, shared calendar or a document library for collaborating on files.
 
-<br>
+<br/>
 
 <a id="privacy" />
 
@@ -42,7 +42,7 @@ The group has its own privacy which can be public or private
 
 Neither public groups nor private groups can be seen or accessed by people outside of your organization unless those people have been specifically invited as guests.
 
-<br>
+<br/>
 
 <a id="group-email" />
 
@@ -53,7 +53,7 @@ Neither public groups nor private groups can be seen or accessed by people outsi
 
 Microsoft 365 groups allow teams to collaborate by giving them a group email and a shared workspace for conversations, files, and calendars.
 
-<br>
+<br/>
 
 <a id="microsoft-teams" />
 
@@ -68,7 +68,7 @@ In Teams you can create a group from an existing 365 group or from something you
 
 ![Create a Team](https://www.rramoscabral.com/training/assets/MSTeams/CreateTeam_01.png) ![Create a new team from something you already own](https://www.rramoscabral.com/training/assets/MSTeams/CreateTeam_02.png)
 
-<br>
+<br/>
 
 <a id="who-can-create-microsoft-365-groups" />
 
@@ -82,7 +82,7 @@ By default, all users can create Microsoft 365 groups. This is the recommended a
 But organizations can restrict access to create groups.
 
 
-<br>
+<br/>
 
 <a id="types-of-existing-groups" />
 
@@ -111,6 +111,6 @@ But organizations can restrict access to create groups.
 
 Section: Microsoft Office 365 Group
 
-[<< Microsoft 365](./Microsoft365.md) | [back to top](#top)  | [SharePoint >>](./SharePoint.md)
+[<< Microsoft 365](./Microsoft365.md) | [back to top](#top) | [Back to Table of Content](./README.md) | [SharePoint >>](./SharePoint.md)
 
 </div>

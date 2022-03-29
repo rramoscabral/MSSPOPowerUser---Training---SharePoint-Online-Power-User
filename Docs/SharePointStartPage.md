@@ -23,7 +23,7 @@ Before this location was called "home page", it is now the easier way to access 
 SharePoint is a browser-based app that you connect to through your web browser, like so:
 
 1. Go to office portal [https://portal.office.com](https://portal.office.com), and sign in to your work or school account.
-1. In the upper left corner of the window, select the app launcher icon ![App Launcher icon](https://www.rramoscabral.com/training/assets/MSMicrosoft365/IconAppLauncher.png) > All apps > SharePoint  ![SharePoint logo](https://www.rramoscabral.com/training/assets/MSMicrosoft365/IconSharePoint.png).
+1. In the upper left corner of the window, select the app launcher  ![App Launcher icon](https://www.rramoscabral.com/training/assets/MSMicrosoft365/IconAppLauncher.png) > All apps > SharePoint  ![SharePoint logo](https://www.rramoscabral.com/training/assets/MSMicrosoft365/IconSharePoint.png).
     - Tip: If you don't see the SharePoint app under All apps, use the Search box near the top of the window to search for SharePoint.
 
         ![App Launcher All Apps](https://www.rramoscabral.com/training/assets/MSMicrosoft365/AppLauncherAllApps.png)
@@ -224,6 +224,6 @@ SharePoint administrators can replace the root site with another modern site usi
 
 Section: SharePoint Start Page
 
-[<< SharePoint](./SharePoint.md) | [back to top](#top)  | [SharePoint Exercise - Create SharePoint Team Site >>](./SharePointExecCreateSharePointTeamSite.md)
+[<< SharePoint](./SharePoint.md) | [back to top](#top)  | [Back to Table of Content](./README.md) | [SharePoint Exercise - Create SharePoint Team Site >>](./SharePointExecCreateSharePointTeamSite.md)
 
 </div>

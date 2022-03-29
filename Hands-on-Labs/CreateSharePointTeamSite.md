@@ -44,7 +44,7 @@ Use the credentials provider by the instructor.
 
 1. Go to office portal [https://portal.office.com](https://portal.office.com), and sign in to your work or school account.
 
-1. In the upper left corner of the window, select the app launcher icon ![App Launcher icon](https://www.rramoscabral.com/training/assets/MSMicrosoft365/IconAppLauncher.png) > All apps > SharePoint  ![SharePoint logo](https://www.rramoscabral.com/training/assets/MSMicrosoft365/IconSharePoint.png).
+1. In the upper left corner of the window, select the app launcher ![App Launcher icon](https://www.rramoscabral.com/training/assets/MSMicrosoft365/IconAppLauncher.png) > All apps > SharePoint  ![SharePoint logo](https://www.rramoscabral.com/training/assets/MSMicrosoft365/IconSharePoint.png).
     - Tip: If you don't see the SharePoint app under All apps, use the Search box near the top of the window to search for SharePoint.
 
         ![App Launcher All Apps](https://www.rramoscabral.com/training/assets/MSMicrosoft365/AppLauncherAllApps.png)
@@ -88,7 +88,7 @@ Use the credentials provider by the instructor.
 1. When you're ready, select **Next**.
     > Note: In some Microsoft 365 tenant you can select a sensitivity level. To select data sensitivity, your admin must have this feature enabled.
 
-1. Add additional site owners and group members as needed. Select one or more trainees if available.
+1. Add additional site owners and group members as needed. Select one or more classmates if available.
 
 1. Select Finish.
 
@@ -110,7 +110,7 @@ Use the credentials provider by the instructor.
 
 1. You can add users, Microsoft 365 Groups, or security groups to give them access to the site.
     
-    1. Select one trainee if available.
+    1. Select one classmate if available.
 
     1. Select Full control or Edit.
 

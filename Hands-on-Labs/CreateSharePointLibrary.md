@@ -1,13 +1,13 @@
 ---
 lab:
-    msspopoweruserTitle: 'Lab 01: Create a SharePoint library'
-    msspopoweruserTitle: 'Lab 01: Create a SharePoint library'
+    msspopoweruserTitle: 'Lab 02: Create a SharePoint library'
+    msspopoweruserTitle: 'Lab 02: Create a SharePoint library'
     msspopoweruserModule: 'Module 03: SharePoint Library'
     msspopoweruserModule: 'Module 03: SharePoint Library'
 ---
 
 
-# Lab 01: Create a SharePoint library
+# Lab 02: Create a SharePoint library
 
 Create a document library in SharePoint to securely store files, work on them together, and access them from any device at any time. 
 
@@ -68,6 +68,7 @@ Use the credentials provider by the instructor.
 You can drag files and folders from your computer to upload them to your OneDrive library or SharePoint team site with the modern experience. You can also browse and upload your files using the classic version.
 
 1. In document library ***Department documents*** create a folder named **Invoices**.
+
     ![Document Library New Folder](https://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryNewFolder.png)
 
 
@@ -86,14 +87,13 @@ You can drag files and folders from your computer to upload them to your OneDriv
     - SharePoint will create all folders and subfolders and upload the files.
 
 
-
-
+<br/>
 
 ### Exercise 3: Adding columns
 
-Add two columns.
+Add three columns.
 
-1. In the library Department documents select the Invoices folder.
+1. In the **Department documents** library select the Invoices folder.
 
 1. Add a column with data type **Single line of text** with the following parameters
     - **Name:** Customer
@@ -102,7 +102,7 @@ Add two columns.
     - **Default value** `empty`
     - **Use calculated value:** not enabled
 
-        ![Document Library Add Column](ttps://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryAddColumn.png)
+        ![Document Library Add Column](https://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryAddColumn.png)
 
 
 
@@ -114,25 +114,109 @@ Add two columns.
     > **Note:** To view more data type select **More...**
 
 
+1. Add another column with data type **Choice** with the following parameters
+    - **Name:** Status
+    - **Desciption:** Invoice Status
+    - **Type:** Choice
+        - Choices:
+            - Submitted
+            - Paid
+    - **Default value:** Submitted
 
-### Exercise 3: Edit and Delete columns
+
+    ![Document Library AddColumn Choice](https://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryAddColumnChoice.png)
+
+<br/>
+
+### Exercise 4: Edit values
+
+Depending on the type of data a column can change the value in all documents or manually in each document.
+
+First you will change all status to Submited then you change one row manually.
+
+1. Toggle selection for all items.
+
+    ![Toggle selection for all items Icon](![Document Library AddColumn Choice](https://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryToggleSelectionForAllItems.png)
+
+1. Open the details pane.
+    
+    ![Document Library Details Pane Icon](https://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryDetailsPaneIcon.png)
+
+
+1. Set the **Status** to **Submitted**
+
+1. Save.
+
+
+You can edit the values in several ways two ways.
+    - Using details pane
+    - Or proprites
+
+
+1. Select the first invoice.
+    - Right click and them select **Details**.
+    - Or open details pane..
+    - Right click and them select **properties**.
+
+1. Change the **Status** to **Paid**. 
+
+
+### Exercise 5: Edit and Delete columns
 
 Change the Invoice column then delete it.
 
-1. Select the Invoice column then > **Column settings** > **Edit** 
+1. Select the Invoice column header then select **Column settings** > **Edit** 
 
-    ![Document Library Edit Column](ttps://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryEditColumn.png)
+    ![Document Library Edit Column](https://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryEditColumn.png)
 
 1. Change the symbol to dollar '**$**' then clik save.
 
 1. Select the Invoice column then > **Column settings** > **Edit** 
 
 1. Delete the Invoice column.
+    1. Select the column header, and from the menu, select **Column settings** > **Edit**.
+    1. At the bottom of the Edit Column pane, select **Delete**.
+    1. To delete the column and the data in the column permanently, select **Delete**..
 
 
+<br/>
+
+### Exercise 6: Create a new view
 
 
+1. Switch view options to **Create a new view**
 
+    ![Document Library Create New View](https://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryCreateNewView.png)
+
+1. Set with:
+    - **Name:** Invoices Status
+    - **Show as:** List
+    - **Make this a public view:** Enabled
+
+1. When you're finished, select Create.
+
+
+1. To edit the current view switch view options to **Edit current view**
+
+1. Unckeck **Modified**, **Modified By**, and **Customer**.
+
+1. Click **OK** button.
+
+<br/>
+
+### Exercise 7: Set up alert
+
+Create an alert when the folder is changed in a SharePoint document library. 
+
+1. Go to **Department documents** library. 
+1. From the library of options select the **... (ellipses)**, and then select **Alert Me**.
+
+    ![Document Library Alert Me](https://www.rramoscabral.com/training/assets/MSSharePoint/DocumentLibraryAlertMe.png)
+
+
+1. In the **Alert me when items change** dialog view the options available and won't change anything.
+
+1. To save, select OK.
 
 
 END OF LAB

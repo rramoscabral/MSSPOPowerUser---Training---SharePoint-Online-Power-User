@@ -307,6 +307,6 @@ You can download Microsoft SharePoint Online Quick Start Guide [**here**](https:
 
 Section: SharePoint
 
-[<< Microsoft 365 Group](./Microsoft365Group.md) | [back to top](#top)  | [SharePoint Start Page >>](./SharePointStartPage.md)
+[<< Microsoft 365 Group](./Microsoft365Group.md) | [back to top](#top) | [Back to Table of Content](./README.md) | [SharePoint Start Page >>](./SharePointStartPage.md)
 
 </div>

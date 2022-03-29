@@ -11,7 +11,7 @@ The exercise are available [**here**](../Hands-on-Labs/CreateSharePointLibrary.m
 
 Section: SharePoint Exercise - Create SharePoint Team library
 
-[<< SharePoint libraries](./SharePointLibraries.md) | [back to top](#top) | [SharePoint restrictions and limitations >>](./SharePointRestrictionsLimitations.md)
+[<< SharePoint libraries](./SharePointLibraries.md) | [back to top](#top) | [Back to Table of Content](./README.md) | [SharePoint restrictions and limitations >>](./SharePointRestrictionsLimitations.md)
 
 </div>
 

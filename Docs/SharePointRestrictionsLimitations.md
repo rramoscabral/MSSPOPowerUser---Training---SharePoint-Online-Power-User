@@ -18,7 +18,7 @@ Restrictions and limitations that apply to files, file names and file types when
 | Network or mapped drives     | OneDrive doesn't support symbolic links where the Link and Target are both located in the same library location. |
 | Network or mapped drives     | OneDrive doesn't support symbolic links where the Link and Target are both located in the same library location. |
 | Elevated privileges          | OneDrive can’t be run with elevated privileges.|
-| Shared with Me               | You can't synchronize the Shared with Me view grouping of files from a OneDrive for Business site.|
+| Shared with Me               | You can't synchronize the Shared with Me view grouping of files from a for work or school (before OneDrive for Business)site.|
 | Guest accounts               |Synchronizing content using an external or guest user is currently not supported by OneDrive.|
 | Authenticated proxies        | Authenticated proxies aren’t supported in OneDrive.|
 | OneNote notebooks            | OneNote notebooks have their own sync mechanism outside of OneDrive|
@@ -49,7 +49,7 @@ In addition to the above, if files are synced to a PC or Mac, the following limi
 
 
 
-<br>
+<br/>
 
 <a id="limitations-of-file-upload-and-download-sizes-in-sharepoint-and-onedrive" />
 
@@ -69,7 +69,7 @@ Restrictions and limitations for file upload and download sizes.
 > **Note:** On 3 March 2021 the maximum file upload size was updated to 250 GB. 
 
 
-<br>
+<br/>
 
 
 
@@ -92,7 +92,7 @@ SharePoint Server versions only support up to 260 characters for file and path l
 > **Note:** This limitation includes three characters that represent the drive, the characters in the folder names, the backslash character between folders, and the characters in the file name. 
 
 
-<br>
+<br/>
 
 <a id="file-upload-and-download-sizes-in-sharepoint-and-onedrive" />
 
@@ -113,7 +113,7 @@ You may receive the following error message **Delivery has failed to these recip
 
 
 
-<br>
+<br/>
 
 <a id="switch-between-classic-and-modern-lists-and-libraries" />
 
@@ -142,7 +142,7 @@ To switch between classic and modern views of lists and libraries
 
 Section: SharePoint restrictions and limitations
 
-[<<  SharePoint Exercise - Create SharePoint library](./SharePointExecCreateShareLibrary.md) | [back to top](#top) | [ XXXX  >>](./XXXXX.md)
+[<<  SharePoint Exercise - Create SharePoint library](./SharePointExecCreateShareLibrary.md) | [back to top](#top) | [Back to Table of Content](./README.md) | [ Sync SharePoint Libraries to your computer >>](./SharePointLibrariesSync.md)
 
 </div>
 

@@ -14,7 +14,9 @@ Cloud updates occur frequently, so you might encounter UI changes before this tr
 
 | Lab | Topic | Description |
 | :---: | :---: | --- |
-| 1 | SharePoint Online     | [Create a team site in SharePoint](./CreateSharePointTeamSite.md) | 
-| 2 | SharePoint Online     | []()|
-| 3 | OneDrive for Bussiness| []()|
-| 4 | Microsoft Teams       | []()|
+| 1 | SharePoint Online | [Create a team site in SharePoint](./CreateSharePointTeamSite.md) | 
+| 2 | SharePoint Online | [Create a SharePoint library](./CreateSharePointLibrary.md)|
+| 3 | SharePoint Online | [Sync SharePoint document library](./CreateSharePointLibrarySync.md)|
+| 4 | SharePoint Online | [Create SharePoint Approvals without workflow](./CreateSharePointApprovalsWithoutWorkflow.md)
+| 5 | OneDrive          | [OneDrive share files](./OneDriveShareFiles.md)
+| 6 | Microsoft Teams   | [Microsoft Teams Exercise - Add SharePoint in Teams](./MicrosoftTeamsAddSharePointInTeams.md)|

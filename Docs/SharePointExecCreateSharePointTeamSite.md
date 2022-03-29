@@ -11,7 +11,7 @@ The exercise are available [**here**](../Hands-on-Labs/CreateSharePointTeamSite.
 
 Section: SharePoint Exercise - Create SharePoint Team Site
 
-[<< SharePoint Start Page](./SharePointStartPage.md) | [back to top](#top) | [SharePoint Libraries >>](./SharePointLibraries.md)
+[<< SharePoint Start Page](./SharePointStartPage.md) | [back to top](#top) | [Back to Table of Content](./README.md) | [SharePoint Libraries >>](./SharePointLibraries.md)
 
 </div>
 
