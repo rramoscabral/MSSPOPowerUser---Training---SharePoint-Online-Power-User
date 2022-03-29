@@ -79,7 +79,7 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 
 **Exercise: Sync SharePoint document library**
-- [Exercise: Sync SharePoint document library](./CreateSharePointLibrarySync.md)|
+- [Exercise: Sync SharePoint document library](./CreateSharePointLibrarySync.md)
 
 
 **SharePoint Approvals without Workflow**
