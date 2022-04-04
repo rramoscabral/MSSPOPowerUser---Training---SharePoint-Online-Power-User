@@ -111,8 +111,6 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 | A crash course in Microsoft 365 for business | Microsoft | 2020 | [Link here](https://clouddamcdnprodep.azureedge.net/gdc/gdc6YwuOS/original) 
 | SharePoint Online quick start guide | Microsoft | 2020 | [Link here](https://download.microsoft.com/download/C/3/4/C3468197-CE05-4738-A1D4-707B4738723A/SPO%20QS.pdf)|
 |Get started with Microsoft OneDrive | Microsoft | 2016 |  [Link here](https://download.microsoft.com/download/C/1/3/C13BEF63-BE65-415B-97D0-2C7506AE475E/Getting%20started%20with%20OneDrive.pdf)
-
-
 | Microsoft OneDriveSharePoint Online quick start guide | Microsoft | 2020 | [Link here](https://download.microsoft.com/download/1/8/B/18B4B34F-13A5-4B65-A56B-CBE99DD4F63D/OneDrive%20QS.pdf)|
 | Microsoft SharePoint Online quick start guide | Microsoft | 2020 | [Link here](https://download.microsoft.com/download/C/3/4/C3468197-CE05-4738-A1D4-707B4738723A/SPO%20QS.pdf)|
 | Microsoft Teams quick start guide | Microsoft | 2020 | [Link here](https://download.microsoft.com/download/D/9/F/D9FE8B9E-22F5-47BF-A1AB-09539C41FCD0/Teams%20QS.pdf)|
