@@ -74,10 +74,7 @@ The following table is a summary of some applications and services available.<br
 | Windows<br/>![Logo](https://www.rramoscabral.com/training/assets/logos/MSWindows.png) | Microsoft Windows, commonly referred to as Windows, is graphical operating system. Reduce the complexity of managing today’s modern IT device environment with cloud technology.<br/>Find more [here](https://www.microsoft.com/en-ww/microsoft-365/windows) |
 | Windows 365<br/>![Logo](https://www.rramoscabral.com/training/assets/logos/MSWindows365.png)  | It's Microsoft Windows as a service on the Cloud. Stream your desktop, apps, settings, and content from the Microsoft cloud to any device and have a personalized Windows experience wherever you are.<br/>Find more [here](https://www.microsoft.com/en-ww/windows-365) |
 | Word<br/>![Logo](https://www.rramoscabral.com/training/assets/logos/MSWord.png) | It's word processing software. Use Microsoft Word for the best word processing and document creation. Find out how document collaboration and editing tools can help polish your Word documents.<br/>The online version has less functionality than the desktop version. <br/>Find more [here](https://www.microsoft.com/en-ww/microsoft-365/word) |
-| Yammer<br/>![Logo](https://www.rramoscabral.com/training/assets/logos/MSYammer.png)  | It's enterprise social network. Yammer is a collaboration tool that helps you connect and engage across the company. Start conversations, share knowledge, and build communities.Is simular to SharePoint social. The Yammer is the default social unless you switch it back to the SharePoint social.
-
-
-<br/>Find more [here](https://www.microsoft.com/en-us/microsoft-365/yammer/yammer-overview)
+| Yammer<br/>![Logo](https://www.rramoscabral.com/training/assets/logos/MSYammer.png)  | It's enterprise social network. Yammer is a collaboration tool that helps you connect and engage across the company. Start conversations, share knowledge, and build communities.Is simular to SharePoint social. The Yammer is the default social unless you switch it back to the SharePoint social. <br/>Find more [here](https://www.microsoft.com/en-us/microsoft-365/yammer/yammer-overview) |
 
 <br/>
 
