@@ -23,4 +23,4 @@ Cloud updates occur frequently, so you might encounter UI changes before this tr
 
 <br/>
 
-[Retrun to main](../README.md)
+[Return to main](../README.md)
