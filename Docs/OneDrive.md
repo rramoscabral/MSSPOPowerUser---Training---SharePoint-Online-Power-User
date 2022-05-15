@@ -55,7 +55,7 @@ OneDrive and OneDrive for work or school use the desktop client.
 ## Number of OneDrive accounts
 
 There are limits to the number of accounts that can be concurrently signed in and syncing. 
-- Each device is allowed a maximum of one OneDrive for home account and nine OneDrive for work or school accounts. 
+- Each Windows device is allowed a maximum of one OneDrive for home account and nine OneDrive for work or school accounts. 
 - For MacOS devices, only a single business account from the same organization can be in sync at any given time. 
 
 <br/>
