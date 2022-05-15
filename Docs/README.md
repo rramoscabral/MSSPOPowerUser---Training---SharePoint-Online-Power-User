@@ -137,6 +137,6 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 Section: Course Introduction a Table of Content
 
-[<< Microsoft 365](../README.md) | [back to top](#top)  | [back to main)(../README.md)  |  [Microsoft 365 >>](./Microsoft365.md)
+[<< Microsoft 365](../README.md) | [back to top](#top)  | [back to main](../README.md)  |  [Microsoft 365 >>](./Microsoft365.md)
 
 </div>
