@@ -8,7 +8,7 @@
 
 Microsoft Teams is client to chat, call, and share video simply from one place that helps you stay close to all the people in your life. 
 
-Teams is built on Microsoft 365 groups and include enterprise-level security, compliance, and manageability. itions.
+Teams is built on Microsoft 365 groups and include enterprise-level security, compliance, and manageability.
 
 
 Microsoft Teams allows
