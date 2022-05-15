@@ -102,26 +102,26 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 
 **OneDrive Upload and Share files**
--[OneDrive Upload and Share files](./OneDriveUploadAndShareFiles.md#onedrive-upload-and-share-files)
--[OneDrive Restrictions and Limitations](./OneDriveUploadAndShareFiles.md#onedrive-restrictions-and-limitations)
--[Upload and save files and folders to OneDrive](./OneDriveUploadAndShareFiles.md#upload-and-save-files-and-folders-to-onedrive)
--[Delete files](./OneDriveUploadAndShareFiles.md#delete-files)
--[Restore files](./OneDriveUploadAndShareFiles.md#restore-files)
--[Important PC Folders (auto backup)](./OneDriveUploadAndShareFiles.md#important-pc-folders-auto-backup)
--[Share files](./OneDriveUploadAndShareFiles.md#share-files)
+- [OneDrive Upload and Share files](./OneDriveUploadAndShareFiles.md#onedrive-upload-and-share-files)
+- [OneDrive Restrictions and Limitations](./OneDriveUploadAndShareFiles.md#onedrive-restrictions-and-limitations)
+- [Upload and save files and folders to OneDrive](./OneDriveUploadAndShareFiles.md#upload-and-save-files-and-folders-to-onedrive)
+- [Delete files](./OneDriveUploadAndShareFiles.md#delete-files)
+- [Restore files](./OneDriveUploadAndShareFiles.md#restore-files)
+- [Important PC Folders (auto backup)](./OneDriveUploadAndShareFiles.md#important-pc-folders-auto-backup)
+- [Share files](./OneDriveUploadAndShareFiles.md#share-files)
 
 
 **Exercise: OneDrive share file**
--[Exercise: OneDrive share files](./OneDriveExecOneDriveShareFiles.md)
+- [Exercise: OneDrive share files](./OneDriveExecOneDriveShareFiles.md)
 
 
 **Microsoft Teams**
--[Microsoft Teams](./MicrosoftTeams.md#microsoft-teams)
--[Microsoft Teams clients](./MicrosoftTeams.md#microsoft-teams-clients)
--[Microsoft Teams Quick Start Guide](./MicrosoftTeams.md#microsoft-teams-quick-start-guide)
--[What is a Team in Microsoft Team](./MicrosoftTeams.md#what-is-a-team-in-microsoft-team)
--[Create a team from scratch](./MicrosoftTeams.md#create-a-team-from-scratch)
--[Add a SharePoint page or document library as a tab in Teams](./MicrosoftTeams.md#add-a-sharepoint-page-or-document-library-as-a-tab-in-teams)
+- [Microsoft Teams](./MicrosoftTeams.md#microsoft-teams)
+- [Microsoft Teams clients](./MicrosoftTeams.md#microsoft-teams-clients)
+- [Microsoft Teams Quick Start Guide](./MicrosoftTeams.md#microsoft-teams-quick-start-guide)
+- [What is a Team in Microsoft Team](./MicrosoftTeams.md#what-is-a-team-in-microsoft-team)
+- [Create a team from scratch](./MicrosoftTeams.md#create-a-team-from-scratch)
+- [Add a SharePoint page or document library as a tab in Teams](./MicrosoftTeams.md#add-a-sharepoint-page-or-document-library-as-a-tab-in-teams)
 
 
 **Exercise: Add SharePoint in Teams**
