@@ -8,7 +8,7 @@ Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](http
 
 
 - [About the course](#about-the-course)
-- [Documentation](#ocumentation)
+- [Documentation](#documentation)
 - [Hands-on Labs](#hands-on-labs)
 - [Resources](#resources)
 - [User groups](#usergroups)
