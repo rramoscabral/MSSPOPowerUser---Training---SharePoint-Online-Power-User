@@ -67,7 +67,7 @@ The Teams mobile apps are available for Android and iOS, and are geared for on-t
 
 ## Microsoft Teams Quick Start Guide
 
-You can download Microsoft Teams Quick Start Guide [**here**](https://download.microsoft.com/download/D/9/F/D9FE8B9E-22F5-47BF-A1AB-09539C41FCD0/Teams%20QS.pdf)
+You can download Microsoft Teams Quick Start Guide [**here**](https://download.microsoft.com/download/D/9/F/D9FE8B9E-22F5-47BF-A1AB-09539C41FCD0/CC1595_MSTeams_QuickStartGuide_EN_Final_4.18.22.pdf)
 
 
 
