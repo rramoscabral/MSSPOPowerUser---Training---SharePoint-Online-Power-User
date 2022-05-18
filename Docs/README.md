@@ -62,7 +62,7 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 
 **Exercise: Create Document library**
-- [Exercise: Create Document library](./SharePointExecCreateSharePointLibrary.md)
+- [Exercise: Create Document library](./SharePointExecCreateSharePointLibrarySync.md)
 
 
 **SharePoint restrictions and limitations**
