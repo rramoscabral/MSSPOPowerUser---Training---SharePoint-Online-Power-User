@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
-# Personalized
-*.code-workspace
+# Windows
+desktop.ini
 
 
 
@@ -15,6 +15,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.code-workspace
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

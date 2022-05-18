@@ -53,16 +53,16 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 
 **SharePoint Libraray**
--[SharePoint Libraray](./SharePointLibraries.md#sharepoint-library)
--[Types of libraries](./SharePointLibraries.md#types-of-libraries)
--[Columns](./SharePointLibraries.md#columns)
--[Views](./SharePointLibraries.md#views)
--[Alerts](./SharePointLibraries.md#alerts)
--[File activity in a document library](./SharePointLibraries.md#file-activity-in-a-document-library)
+- [SharePoint Libraray](./SharePointLibraries.md#sharepoint-library)
+- [Types of libraries](./SharePointLibraries.md#types-of-libraries)
+- [Columns](./SharePointLibraries.md#columns)
+- [Views](./SharePointLibraries.md#views)
+- [Alerts](./SharePointLibraries.md#alerts)
+- [File activity in a document library](./SharePointLibraries.md#file-activity-in-a-document-library)
 
 
 **Exercise: Create Document library**
-- [Exercise: Create Document library](./SharePointExecCreateSharePointLibrarySync.md)
+- [Exercise: Create Document library](./SharePointExecCreateSharePointLibrary.md)
 
 
 **SharePoint restrictions and limitations**
@@ -79,7 +79,7 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 
 **Exercise: Sync SharePoint document library**
-- [Exercise: Sync SharePoint document library](./CreateSharePointLibrarySync.md)
+- [Exercise: Sync SharePoint document library](./SharePointExecCreateSharePointLibrarySync.md)
 
 
 **SharePoint Approvals without Workflow**
@@ -89,7 +89,7 @@ This course is aimed at all users who want to work collaboratively through Micro
 
 
 **Exercise: SharePoint Approvals without workflow**
-- [Exercise: SharePoint Approvals without workflow](./SharePointApprovalsWithoutWorkflow.md)
+- [Exercise: SharePoint Approvals without workflow](./SharePointExecApprovalsWithoutWorkflow.md)
 
 
 **OneDrive**

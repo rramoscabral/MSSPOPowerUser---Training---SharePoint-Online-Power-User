@@ -124,6 +124,6 @@ Now any document that is uploaded to the library will have to be approved. Which
 
 Section: SharePoint Approvals without workflow
 
-[<< SharePoint Exercise - Sync SharePoint document library](./SharePointExecCreateSharePointLibrarySync.md) | [back to top](#top) | [Back to Table of Content](./README.md) | [OneDrive >>](./OneDrive.md)
+[<< SharePoint Exercise - Sync SharePoint document library](./SharePointExecCreateSharePointLibrarySync.md) | [back to top](#top) | [Back to Table of Content](./README.md) | [SharePoint Exercise - SharePoint Approvals without workflow>>](./SharePointExecApprovalsWithoutWorkflow.md)
 
 </div>
