@@ -42,7 +42,7 @@ So the first step is enabling Versioning
 
 In SharePoint Online or On-Premises, versioning is enabled in the List Settings or Library Settings screens by clicking on the 'Versioning settings' link. 
 
-    ![Library Settings](https://www.rramoscabral.com/training/assets/MSSharePoint/LibrarySettings.png)
+![Library Settings](https://www.rramoscabral.com/training/assets/MSSharePoint/LibrarySettings.png)
 
 
 
