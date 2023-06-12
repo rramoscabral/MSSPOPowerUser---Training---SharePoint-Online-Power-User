@@ -20,7 +20,7 @@ OneDrive is available on PC, MAC, phone, tablet or online. There is no official 
 
 # OneDrive VS OneDrive for work or school
 
-OneDrive is the free and for personal use. It is like the Dropbox or Google Drive for personal use.
+OneDrive is the free for personal use. It is like the Dropbox or Google Drive for personal use.
 
 OneDrive for work or school is an account provided by your company or school, it's sometimes called "OneDrive for work or school." It used to be known as "OneDrive for Business," so you may still see it called that in places.
 
